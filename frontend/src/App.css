@@ -1,8 +1,6 @@
 /* Basic styles for the app */
 .App {
   text-align:center;
-  
-  background-color: #007bff;
   padding: 2rem;
   font-family: sans-serif;
 }
